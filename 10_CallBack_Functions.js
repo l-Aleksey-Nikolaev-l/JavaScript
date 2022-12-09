@@ -31,4 +31,14 @@ console.log(mainFunction(20, true, myCallBack3));
 
 
 
+const strArray = ["Hello", "Bye Bye", "Morgen", "Cup", "Tea", "Coffee"];
+
+
+const newStrArray = strArray.map(itemFromArray => itemFromArray[2]);
+
+console.log(newStrArray);
+
+
+
+
 // node 10_CallBack_Functions.js // FOR RUN
