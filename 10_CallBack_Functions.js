@@ -25,6 +25,8 @@ function mainFunction(randomNumber, shouldCall, callBack) {
 }
 
 
+console.log(mainFunction(20, true, myCallBack1));
+console.log(mainFunction(20, true, myCallBack2));
 console.log(mainFunction(20, true, myCallBack3));
 
 
