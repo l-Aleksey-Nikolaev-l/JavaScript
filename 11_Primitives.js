@@ -12,7 +12,7 @@ const myBo = true; // It is a boolean primitive
 const mySym = Symbol("hi"); // It is a symbol primitive
 
 console.log(string1 === string2);
-console.log(string1 == string2);
+// console.log(string1 == string2);
 
 
 
