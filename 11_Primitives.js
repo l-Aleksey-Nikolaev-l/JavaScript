@@ -18,6 +18,4 @@ console.log(string1 === string2);
 
 
 
-
-
 // node 11_Primitives.js // FOR RUN
